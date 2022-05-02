@@ -15,7 +15,8 @@ combine python code with node js API
 3. Type `git clone https://github.com/dasunsennath/python-with-Nodejs.git`
    in your terminal
 4. All file are cloning to your folder
-5. Then Type `npm install`
+5. Type ``` cd node-with-python ```
+6. Then Type `npm install`
    in your terminal
 6. all the modules are installed and make sure that `node_modules` is created in your project folder
 7. To Run the Apllication Type `npm start ` or `nodemon` in your terminal
