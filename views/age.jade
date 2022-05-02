@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h1 welcome to age calculator
+  p please fill following form
+  form(method="POST", action="/user")
+    input(type="hidden", name="_method", value="PUT")
+    p FirstName
+    input(type="text", name="fname")
+    p LastName
+    input(type="text", name="lname")
+    p your BirthDay
+    input(type="date", name="date")
+    p 
+    input(type="submit")
