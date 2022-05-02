@@ -22,4 +22,4 @@ combine python code with node js API
 7. To Run the Apllication Type `npm start ` or `nodemon` in your terminal
 8. the application can be found in [This URL](http://localhost:3000)
 
-# Make Sure That nodejs and python are installed on your computer.
+# Make Sure That nodejs and python have been installed on your computer.
